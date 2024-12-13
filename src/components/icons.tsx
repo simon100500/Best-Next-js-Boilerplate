@@ -12,7 +12,7 @@ import { IoIosDocument } from "react-icons/io"
 import { IoMdMailUnread } from "react-icons/io"
 import { IoAccessibility, IoGameControllerOutline } from "react-icons/io5"
 import { IoSchoolSharp } from "react-icons/io5"
-import { LuRadar, LuBarChartHorizontalBig } from "react-icons/lu"
+import { LuRadar, LuChartBar } from "react-icons/lu"
 import { MdConnectWithoutContact } from "react-icons/md"
 import { MdKeyboardDoubleArrowRight } from "react-icons/md"
 import { PiBuildingsBold } from "react-icons/pi"
@@ -67,7 +67,7 @@ export const Icons = {
   radar: LuRadar,
   accessibility: IoAccessibility,
   people: FaPeopleGroup,
-  scale: LuBarChartHorizontalBig,
+  scale: LuChartBar,
   gamification: IoGameControllerOutline,
   code: FaCode,
   project: FaProjectDiagram,
